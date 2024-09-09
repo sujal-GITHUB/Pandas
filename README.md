@@ -1,5 +1,6 @@
-Pandas: Data Analysis and Manipulation with Python
-Welcome to the Pandas repository! This project provides comprehensive examples and explanations for various tasks using the Pandas library in Python. Pandas is one of the most powerful and easy-to-use libraries for data manipulation and analysis in Python.
+#Pandas: Data Analysis and Manipulation with Python
+
+##Welcome to the Pandas repository! This project provides comprehensive examples and explanations for various tasks using the Pandas library in Python. Pandas is one of the most powerful and easy-to-use libraries for data manipulation and analysis in Python.
 
 Features
 Data Cleaning: Handling missing values, duplicates, and inconsistent data.
